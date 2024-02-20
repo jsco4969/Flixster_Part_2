@@ -4,7 +4,7 @@ Submitted by: **Jaden Scott**
 
 **flixter+ part2** is a movie browsing app that allows users to browse ... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **13** hours spent in total
 
 ## Required Features
 
